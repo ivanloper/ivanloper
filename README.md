@@ -1,5 +1,19 @@
-https://user-images.githubusercontent.com/79539819/128535648-059df6eb-e90c-4306-9aea-36a3bfa77747.jpg
-### Hi there 👋
+![1616531447945](https://user-images.githubusercontent.com/79539819/128535648-059df6eb-e90c-4306-9aea-36a3bfa77747.jpg)
+
+Hi, I´m Iván 👋
+
+```js
+const ivanloper = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, JavaScript],
+  pasions: [web development, graphic design, digital marketing, cybersecurity, travel and films]
+}
+```
+
+You can find me🙄:
+- [Portfolio](https://ivanlopez.netlify.app/)
+- [Twitter](https://twitter.com/ijloopez)
+- [Youtube](https://www.youtube.com/cybertecnics)
 
 <!--
 **ivanloper/ivanloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
