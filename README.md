@@ -6,7 +6,7 @@ Hi, I´m Iván López👋🚀
 const ivanloper = {
   pronouns: "he" | "him",
   code: [HTML, CSS, JavaScript],
-  pasions: [web development, graphic design, digital marketing, cybersecurity, travel and films]
+  pasions: [SEO, web development, graphic design, digital marketing, travel and films]
 }
 ```
 
