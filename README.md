@@ -11,7 +11,7 @@ const ivanloper = {
 ```
 
 You can find me🙄:
-- [Portfolio](https://ivanlopez.netlify.app/)
+- [Portfolio](https://ivanportfolio.netlify.app/)
 - [Twitter](https://twitter.com/ijloopez)
 - [Youtube](https://www.youtube.com/cybertecnics)
 
