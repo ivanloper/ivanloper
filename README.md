@@ -11,9 +11,9 @@ const ivanloper = {
 ```
 
 You can find me🙄:
-- [Portfolio](https://ivanportfolio.netlify.app/)
-- [Twitter](https://twitter.com/ijloopez)
-- [Youtube](https://www.youtube.com/cybertecnics)
+- [Portfolio](https://www.soyivan.com/portfolio/)
+- [Twitter](https://x.com/ivan_lopezh)
+- [Youtube](https://www.youtube.com/@soyivanlopezmkt)
 
 <!--
 **ivanloper/ivanloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
